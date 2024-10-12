@@ -1,82 +1,70 @@
 {
     "amigaos":
     {
-        "title": "AmigaOS 4.1 Final Edition Update 2"
+        "title": "AmigaOS"
     },
     "amongtrees":
     {
-        "title": "Among Trees (2020) Game Wallpaper"
+        "title": "Among Trees"
     },
     "freebsd":
     {
-        "title": "FreeBSD 14.0 (20 November 2023)"
+        "title": "FreeBSD"
     },
     "gtaIII":
     {
-        "title": "GTA III Menu & UI Elements",
-        "language":
-        {
-            "RU": "Стиль интерфейса меню GTA III"
-        }
+        "title": "Grand Theft Auto III"
     },
     "gtaVC":
     {
-        "title": "GTA Vice City Menu & UI Elements",
-        "language":
-        {
-            "RU": "Стиль интерфейса меню GTA Vice City"
-        }
+        "title": "Grand Theft Auto: Vice City"
     },
     "gtaSA":
     {
-        "title": "GTA San Andreas Menu & UI Elements",
-        "language":
-        {
-            "RU": "Стиль интерфейса меню GTA San Andreas"
-        }
+        "title": "Grand Theft Auto: San Andreas"
     },
     "squadrons":
     {
-        "title": "STAR WARS Squadrons (2020) Wallpaper"
+        "title": "STAR WARS Squadrons"
     },
     "surface":
     {
-        "title": "Microsoft Surface Pro 9 Desktop UltraHD"
+        "title": "Microsoft Surface Pro"
     },
     "win95":
     {
-        "title": "Microsoft Windows 95 Retail SP1"
+        "title": "Microsoft Windows 95"
     },
     "win98":
     {
-        "title": "Microsoft Windows 98 Second Edition"
+        "title": "Microsoft Windows 98"
     },
     "win2k":
     {
-        "title": "Microsoft Windows 2000 Professional"
+        "title": "Microsoft Windows 2000"
     },
     "winme":
     {
-        "title": "Microsoft Windows Millenium Edition"
+        "title": "Microsoft Windows ME"
     },
     "winvista":
     {
-        "title": "Microsoft Windows Vista Enterprise"
+        "title": "Microsoft Windows Vista"
     },
     "win7":
     {
-        "title": "Microsoft Windows 7 Enterprise"
+        "title": "Microsoft Windows 7"
     },
     "win8":
     {
-        "title": "Microsoft Windows 8 Enterprise"
+        "title": "Microsoft Windows 8"
     },
     "win10":
     {
-        "title": "Microsoft Windows 10 Enterprise"
+        "title": "Microsoft Windows 10"
     },
     "win11":
     {
-        "title": "Microsoft Windows 11 Enterprise"
+        "title": "Microsoft Windows 11"
     }
 }
