@@ -1,53 +1,20 @@
 {
-    "amigaos": {
-        "title": "AmigaOS"
-    },
-    "amongtrees": {
-        "title": "Among Trees"
-    },
-    "freebsd": {
-        "title": "FreeBSD"
-    },
-    "gtaIII": {
-        "title": "Grand Theft Auto III"
-    },
-    "gtaVC": {
-        "title": "Grand Theft Auto: Vice City"
-    },
-    "gtaSA": {
-        "title": "Grand Theft Auto: San Andreas"
-    },
-    "squadrons": {
-        "title": "STAR WARS Squadrons"
-    },
-    "surface": {
-        "title": "Microsoft Surface Pro"
-    },
-    "win95": {
-        "title": "Microsoft Windows 95"
-    },
-    "win98": {
-        "title": "Microsoft Windows 98"
-    },
-    "win2k": {
-        "title": "Microsoft Windows 2000"
-    },
-    "winme": {
-        "title": "Microsoft Windows ME"
-    },
-    "winvista": {
-        "title": "Microsoft Windows Vista"
-    },
-    "win7": {
-        "title": "Microsoft Windows 7"
-    },
-    "win8": {
-        "title": "Microsoft Windows 8"
-    },
-    "win10": {
-        "title": "Microsoft Windows 10"
-    },
-    "win11": {
-        "title": "Microsoft Windows 11"
-    }
+    "amigaos": { "title": "AmigaOS" },
+    "amongtrees": { "title": "Among Trees" },
+    "freebsd": { "title": "FreeBSD" },
+    "gtaIII": { "title": "Grand Theft Auto III" },
+    "gtaVC": { "title": "Grand Theft Auto: Vice City" },
+    "gtaSA": { "title": "Grand Theft Auto: San Andreas" },
+    "heroes": { "title": "Heroes & Generals" },
+    "squadrons": { "title": "STAR WARS Squadrons" },
+    "surface": { "title": "Microsoft Surface Pro" },
+    "win95": { "title": "Microsoft Windows 95" },
+    "win98": { "title": "Microsoft Windows 98" },
+    "win2k": { "title": "Microsoft Windows 2000" },
+    "winme": { "title": "Microsoft Windows ME" },
+    "winvista": { "title": "Microsoft Windows Vista" },
+    "win7": { "title": "Microsoft Windows 7" },
+    "win8": { "title": "Microsoft Windows 8" },
+    "win10": { "title": "Microsoft Windows 10" },
+    "win11": { "title": "Microsoft Windows 11" }
 }
